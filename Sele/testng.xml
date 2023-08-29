@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Testng.Login"/>
+      <class name="Testng.Soecifypriority"/>
+      <class name="Testng.Enables"/>
+      <class name="Testng.Tc1"/>
+      <class name="Testng.Count"/>
+      <class name="Testng.DemoAutomationPracticeForm"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
